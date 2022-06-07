@@ -7,7 +7,7 @@
 
   <remote name="GalaxyM30s"
           fetch="https://github.com/GalaxyM30s"
-          revision="dot12.1" />
+          revision="lineage-19.0" />
   
   <remote name="GalaxyM30s-android-12.0"
           fetch="https://github.com/GalaxyM30s"
