@@ -27,7 +27,7 @@
   <project path="vendor/samsung/m30s-common" name="android_vendor_samsung_m30s-common" remote="GalaxyM30s" />
   
   <!-- hardware -->
-  <project path="hardware/samsung" name="hardware_samsung" remote="lineage" />
+  <project path="hardware/samsung" name="android_hardware_samsung" remote="lineage" />
            
   <project path="device/samsung_slsi/sepolicy" name="android_device_samsung_slsi_sepolicy" remote="lineage" />
   <project path="hardware/samsung_slsi/libbt" name="android_hardware_samsung_slsi_libbt" remote="lineage" />
