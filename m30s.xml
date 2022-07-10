@@ -9,9 +9,9 @@
           fetch="https://github.com/GalaxyM30s"
           revision="dot12.1" />
   
-  <remote name="GalaxyM30s-android-12.0"
+  <remote name="kernel-next"
           fetch="https://github.com/GalaxyM30s"
-          revision="android-12.0" />
+          revision="kernel-next" />
 
   <!-- device -->
   <project path="device/samsung/m307f" name="android_device_samsung_m307f" remote="GalaxyM30s" />
@@ -19,7 +19,7 @@
   <project path="device/samsung/m30s-common" name="android_device_samsung_m30s-common" remote="GalaxyM30s" />
   
   <!-- kernel -->
-  <project path="kernel/samsung/m30s" name="android_kernel_samsung_m30s" remote="GalaxyM30s-android-12.0" />
+  <project path="kernel/samsung/m30s" name="android_kernel_samsung_m30s" remote="kernel-next" />
 
   <!-- vendor -->
   <project path="vendor/samsung/m307f" name="android_vendor_samsung_m307f" remote="GalaxyM30s" />
